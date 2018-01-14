@@ -6,5 +6,5 @@
 Здесь мы разместим ссылку на первое задание!
 Вот она: https://kodaktor.ru/g/m13092017
 ***
-Доброго дня! Прикрепляю ссылку на свой репозиторий: https://github.com/555Anton/magistratura-Gercena
+**Доброго дня!** Прикрепляю ссылку на свой репозиторий: https://github.com/555Anton/magistratura-Gercena
 
