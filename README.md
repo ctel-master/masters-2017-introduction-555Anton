@@ -10,4 +10,4 @@
 ***
 Ссылка на сайт в Moodle Cloud: https://ehrgonomika.moodlecloud.com/ 
 ***
-![задание И.Б. Государёва]https://github.com/ctel-master/masters-2017-introduction-555Anton/blob/master/%D0%BC16.png
+![задание И.Б. Государёва](https://github.com/ctel-master/masters-2017-introduction-555Anton/blob/master/%D0%BC16.png)
